@@ -4,7 +4,7 @@
 
 | **Phase**        | **Duration** | **Focus Area**                   | **Target Rating** | **Check** |
 | ---------------- | ------------ | -------------------------------- | ----------------- | --------- |
-| **Fundamentals** | Weeks 1-4    | Language basics, problem solving | <1000             | [ ]       |
+| **Fundamentals** | Weeks 1-4    | Language basics, problem solving | <1000             | - [ ]     |
 | **Core DSA**     | Weeks 5-12   | Data structures, algorithms      | 1000-1400         | [ ]       |
 | **Advanced DSA** | Months 4-6   | Advanced algorithms              | 1400-1800         | [ ]       |
 | **Expert Level** | Months 7+    | Specialized topics               | 1800+             | [ ]       |
